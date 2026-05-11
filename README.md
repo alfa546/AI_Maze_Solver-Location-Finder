@@ -1,8 +1,22 @@
 # AI Maze Solver - Location Finder
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Tkinter-00599C?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter" />
+  <img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white" alt="OSM" />
+  <img src="https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logo=python&logoColor=white" alt="Folium" />
+</p>
+
+---
+
 ## Demo Video
 
-Start here first to see the project in action: [Video of project working.mp4](Video%20of%20project%20working.mp4)
+<div align="center">
+  <h3>📺 Project Demo</h3>
+  <video src="Video%20of%20project%20working.mp4" width="100%" controls autoplay muted loop>
+    Your browser does not support the video tag. <a href="Video%20of%20project%20working.mp4">Download the video instead</a>.
+  </video>
+</div>
 
 This project is a desktop Python app that combines a maze solver with real-world route finding.
 
