@@ -12,8 +12,8 @@
 ## 📺 Project Demo
 
 <p align="center">
-  <video src="demo.mp4" width="100%" controls autoplay muted loop>
-    Your browser does not support the video tag. <a href="demo.mp4">View Video</a>
+  <video src=".github/assets/demo.mp4" width="100%" controls autoplay muted loop>
+    Your browser does not support the video tag. <a href=".github/assets/demo.mp4">View Video</a>
   </video>
 </p>
 
