@@ -1,3 +1,4 @@
+
 # AI Maze Solver - Location Finder
 
 <p align="center">
@@ -7,13 +8,14 @@
   <img src="https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logo=python&logoColor=white" alt="Folium" />
 </p>
 
----
+----
 This project is a desktop Python app that combines a maze solver with real-world route finding.
 
 It provides two main modes:
 
 - Maze solving on a 20x20 grid using BFS and DFS
 - Real city-to-city route lookup using OpenStreetMap, Nominatim, OSRM, and an optional Folium interactive map
+----
 
 ## Features
 
