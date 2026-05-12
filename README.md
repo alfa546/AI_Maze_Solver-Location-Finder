@@ -9,13 +9,6 @@
 
 ---
 
-## 📺 Project Demo
-
-<p align="center">
-  <video src=".github/assets/demo.mp4" width="100%" controls autoplay muted loop>
-    Your browser does not support the video tag. <a href=".github/assets/demo.mp4">View Video</a>
-  </video>
-</p>
 
 This project is a desktop Python app that combines a maze solver with real-world route finding.
 
