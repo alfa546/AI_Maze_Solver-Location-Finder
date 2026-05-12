@@ -8,8 +8,6 @@
 </p>
 
 ---
-
-
 This project is a desktop Python app that combines a maze solver with real-world route finding.
 
 It provides two main modes:
